@@ -1,12 +1,14 @@
 
    
   const cviSidebar = [
-    { text: "cvi", link: "/cvi/" },
-    { text: "brief", link: "/cvi/brief" },
-    { text: "moodboard", link: "/cvi/moodboard" },
+    { text: "CVI", link: "/cvi/" },
+    { text: "Brief", link: "/cvi/brief" },
+    { text: "Moodboard", link: "/cvi/moodboard" },
+    { text: "Drafts", link: "/cvi/drafts" },
+    { text: "Logos", link: "/cvi/logos" },
 ]
 const logiSidebar = [
-    { text: "logi", link: "/logi/" },
+    { text: "Logi", link: "/logi/" },
     { text: "Fonditöötlus", link: "/logi/01_fontedit" },
     { text: "Ruudust tähed, nimest märk", link: "/logi/02_ruudud_mark" },
     { text: "Logo visandamine ", link: "/logi/03_apple_logo" },
@@ -32,6 +34,8 @@ module.exports = {
         {
             "/cvi/": cviSidebar,
             "/cvi/brief": cviSidebar,
+            "/cvi/drafts": cviSidebar,
+            "/cvi/logos": cviSidebar,
             "/logi/": logiSidebar,
             "/logi/01_fontedit": logiSidebar,
             "/logi/02_ruudud_mark": logiSidebar,

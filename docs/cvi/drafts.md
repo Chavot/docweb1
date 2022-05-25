@@ -1,0 +1,3 @@
+# Early logo drafts
+![muudetud font3](../images/brief/alikas2.jpg)
+![muudetud font3](../images/brief/alikas1.jpg)

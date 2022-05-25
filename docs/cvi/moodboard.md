@@ -1,4 +1,4 @@
-# moodboard
+# Logo moodboard
 
-first moodboard prototype:
+![muudetud font3](../images/brief/moods.png)
  
