@@ -2,7 +2,7 @@
 ---
 
 
-<span style="color:green;font-weight:700;font-size:24px">
+<span style="color:green;font-weight:700;font-size:26px">
 Brändi põhieesmärk enda disainiga välja näidata enda 
 usaldusväärsust, kohusetundlikust ja töökust.
 
