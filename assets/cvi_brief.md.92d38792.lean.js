@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as e,d as t}from"./app.4c9832c1.js";const v='{"title":"Briif","description":"","frontmatter":{},"headers":[],"relativePath":"cvi/brief.md","lastUpdated":1654541840159}',a={},o=t("",12),l=[o];function d(c,p,u,r,n,k){return e(),i("div",null,l)}var _=s(a,[["render",d]]);export{v as __pageData,_ as default};
