@@ -5,7 +5,16 @@
     { text: "Brief", link: "/cvi/brief" },
     { text: "Moodboard", link: "/cvi/moodboard" },
     { text: "Drafts", link: "/cvi/drafts" },
-    { text: "Logos", link: "/cvi/logos" },
+    { text: "Early logos", link: "/cvi/logos" },
+    { text: "Logo", link: "/cvi/logo1" },
+    { text: "Colors", link: "/cvi/colors" },
+    { text: "Fonts", link: "/cvi/fonts" },
+    { text: "Logo safespace", link: "/cvi/safety" },
+    { text: "Pattern", link: "/cvi/pattern" },
+    { text: "Mockups", link: "/cvi/mockup" },
+
+
+
 ]
 const logiSidebar = [
     { text: "Logi", link: "/logi/" },
@@ -16,6 +25,7 @@ const logiSidebar = [
     { text: "Kiisu referents 2", link: "/logi/05_refer2" },
     { text: "Vapp", link: "/logi/06_refer3" },
     { text: "Negatiivne ruum", link: "/logi/07_gestalt" },
+
 ]
 
 module.exports = {
@@ -40,6 +50,14 @@ module.exports = {
             "/cvi/brief": cviSidebar,
             "/cvi/drafts": cviSidebar,
             "/cvi/logos": cviSidebar,
+            "/cvi/logo1": cviSidebar,
+            "/cvi/colors": cviSidebar,
+            "/cvi/fonts": cviSidebar,
+            "/cvi/safety": cviSidebar,
+            "/cvi/mockups": cviSidebar,
+
+
+
 
             "/logi/": logiSidebar,
             "/logi/01_fontedit": logiSidebar,
