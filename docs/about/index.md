@@ -4,9 +4,9 @@
 
 
 ::: details Kes ma olen?
-<font size="6"> 
+
  Olen tuntud kui Chavot😽
- </font> 
+ 
 :::
 
 ---
