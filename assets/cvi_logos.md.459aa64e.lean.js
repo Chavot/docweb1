@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.e53c4ae3.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cvi/logos.md","lastUpdated":1654533358885}',s={},c=o("p",null,"4q",-1),r=[c];function n(_,p,d,l,i,f){return a(),t("div",null,r)}var h=e(s,[["render",n]]);export{u as __pageData,h as default};
