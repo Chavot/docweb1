@@ -1,6 +1,6 @@
 # Tunnusgraafika logi
 
-Kalbergi tunnusgraafika tundide ülevaade
+Tunnusgraafika tundide ülevaade.
     
 ## Tööd: 
 * "Fonditöötlus",

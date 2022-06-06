@@ -12,9 +12,9 @@ const logiSidebar = [
     { text: "Fonditöötlus", link: "/logi/01_fontedit" },
     { text: "Ruudust tähed, nimest märk", link: "/logi/02_ruudud_mark" },
     { text: "Logo visandamine ", link: "/logi/03_apple_logo" },
-    { text: "Referentsi töö 1", link: "/logi/04_refer1" },
-    { text: "Referentsi töö 2", link: "/logi/05_refer2" },
-    { text: "Referentsi töö 3", link: "/logi/06_refer3" },
+    { text: "Kiisu referents 1", link: "/logi/04_refer1" },
+    { text: "Kiisu referents 2", link: "/logi/05_refer2" },
+    { text: "Vapp", link: "/logi/06_refer3" },
     { text: "Negatiivne ruum", link: "/logi/07_gestalt" },
 ]
 
@@ -26,16 +26,21 @@ module.exports = {
         nav: [
 
             { text: "Home", link: "/" },
-            { text: "About", link: "/about/" },
+            { text: "Contact", link: "/contact/" },
             { text: "Log", link: "/logi/" },
             { text: "CVI", link: "/cvi/" },
         ],
         sidebar:
         {
+
+
+
+            
             "/cvi/": cviSidebar,
             "/cvi/brief": cviSidebar,
             "/cvi/drafts": cviSidebar,
             "/cvi/logos": cviSidebar,
+
             "/logi/": logiSidebar,
             "/logi/01_fontedit": logiSidebar,
             "/logi/02_ruudud_mark": logiSidebar,
