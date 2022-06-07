@@ -2,4 +2,5 @@
 
 kritseldatud piltidest vektori/disaini loomine
 
+![apple1](../images/apples1/apple43.png)
 ![apple1](../images/apples1/apple_draw1.png)
