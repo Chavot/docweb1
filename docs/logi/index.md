@@ -1,5 +1,5 @@
 # Tunnusgraafika logi
-
+---
 Tunnusgraafika tundide ülevaade.
     
 ## Tööd: 

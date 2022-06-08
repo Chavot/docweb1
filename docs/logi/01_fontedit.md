@@ -1,4 +1,6 @@
 # tunniteema: fondi oma käe järgi muutmine(kerning)
+---
+
 fondi muutmine endale sobivaks kasutades kerningut ning muid võtteid.
 
 
