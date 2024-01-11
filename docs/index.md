@@ -1,19 +1,15 @@
-# See veebileht on selle eesmärgiga loodud, et näidata minu tehtud töid
+# See veebileht on %
 ---
 
 
 
 ::: details Kes ma olen?
 
- Olen tuntud kui Chavot😽
+ Olen tuntud kui Chavez
 
-Õpin disaini🎨 ning veebiarendust💻 Tallinna Polütehnikumis. Töötan praegu [õlletehases](https://saku.ee/et/).
+Töötan praegu [saku disainiosakonnas](https://saku.ee/et/).
 
-Kui mul on sihtmärk olemas olen kohusetundlik ning püüdlik selle nimel.
-
-Olen [scorpio ♏](https://www.horoscope.com/zodiac-signs/scorpio)
 :::
-
 ---
 
 
